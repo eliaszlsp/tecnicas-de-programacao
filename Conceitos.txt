@@ -1,0 +1,6 @@
+// Este arquivo será preenchido pelos alunos.
+
+// Contribuição de Wellington
+def wellington():
+    # Por favor, substitua "SEU_RA_AQUI" pelo seu RA
+    return "SEU_RA_AQUI"
